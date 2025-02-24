@@ -13,3 +13,11 @@ To run the code, install the required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+## Results
+The models were evaluated based on their accuracy scores. The results are as follows:
+
+- **Random Forest Accuracy:** 98.54%
+- **KNN Accuracy:** 73.17%
+- **SVM Accuracy:** 80.49%
+
+Random Forest performed the best among the three classifiers
